@@ -308,6 +308,16 @@ margin:auto;
 	z-index:6;
 	display:none;}
 
+	#toseeistoforget
+	{width:80%;
+	height:80%;
+	left:50%;
+	top:950%;
+	position:absolute;
+	margin-bottom: 20%;
+	z-index:6;
+	display:none;}
+
 	
 	#tunnelbubble1{
 	width:70%;
@@ -389,7 +399,7 @@ margin:auto;
 	width:80%;
 	height:80%;
 	left:60%;
-	top:1910%;
+	top:1900%;
 	position:absolute;
 	margin-bottom: 20%;
 	z-index:6;
@@ -504,6 +514,7 @@ margin:auto;
    #drivenbybeauty
    {width:50%;
 	height:50%;
+	left:50%;
 	position:absolute;
 	margin-bottom: 20%;
 	z-index:7}
