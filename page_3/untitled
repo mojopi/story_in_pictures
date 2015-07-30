@@ -2,7 +2,7 @@
 <html id="storyhtml">
 <head>
 	<title></title>
-	<link rel="stylesheet" type="text/css" href="../dgmdstyle.css"/>
+	<link rel="stylesheet" type="text/css" href="/story_in_pictures/dgmdstyle.css"/>
 </head>
 <body>
 <div class="storyimage"> <img class="simg" src="https://s3-us-west-2.amazonaws.com/dgmdproject/Wake_up.png"></div>
